@@ -13,3 +13,5 @@ Analyse/vooronderzoek: start een onderzoek op met de hoofdvraag Hoe kan ik een a
 Maak een proof-of-concept waaruit blijkt dat dit werkt.
 Toon ook de high score op het scherm. 
 Sla de high score op in een tekstbestand en lees de high score weer uit bij het opstarten van het spel.
+
+![test](https://github.com/CrossyChainsaw/DinoGame/blob/master/ExerciseExplained.png?raw=true)
